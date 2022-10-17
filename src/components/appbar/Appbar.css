@@ -1,0 +1,14 @@
+@import url("../../global.scss");
+.appbar {
+  width: 100vw;
+  height: 60px;
+  left: 0;
+  top: 0;
+  position: fixed;
+  background-color: #fff;
+}
+
+.appbar #dark-theme {
+  background-color: aqua;
+}
+/*# sourceMappingURL=Appbar.css.map */
